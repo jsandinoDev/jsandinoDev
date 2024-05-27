@@ -10,9 +10,9 @@
  
 ___
 
-```
+
  💻 I’m currently learning web3 with Cairo && starknet
-```
+
 ___
 
 
