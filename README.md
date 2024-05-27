@@ -1,8 +1,16 @@
-## Hi, I'm Josue Sandino 
+## Hi, I'm Josue Sandino ✌️
 
-Software engineer with a degree from [UNA](https://www.una.ac.cr/) in 2021.
-Specialized in the migration of applications from obsolete technologies to modern platforms.
-Skilled in both front-end and back-end development.
+ 🎓 Software engineer with a degree from [UNA](https://www.una.ac.cr/) in 2021.
+ 
+ 🌀 Specialized in the migration of applications from obsolete technologies to modern platforms.
+ 
+ 🔑 Skilled in both front-end and back-end development.
+ 
+ 🔭 Interested in learning new technology solutions and looking to collaborate on projects where my help can be useful. 
+ 
+___
+
+- 💻 I’m currently learning web3 with Cairo && starknet
 
 
 <!--
