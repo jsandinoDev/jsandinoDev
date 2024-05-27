@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Josue Sandino 
 
+Software engineer with a degree from [UNA]([readme.com](https://www.una.ac.cr/))
 <!--
 **jsandinoDev/jsandinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
