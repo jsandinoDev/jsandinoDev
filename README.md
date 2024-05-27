@@ -1,6 +1,9 @@
 ## Hi, I'm Josue Sandino 
 
 Software engineer with a degree from [UNA](https://www.una.ac.cr/) in 2021.
+Specialized in the migration of applications from obsolete technologies to modern platforms.
+Skilled in both front-end and back-end development.
+
 
 <!--
 **jsandinoDev/jsandinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
