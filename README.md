@@ -1,6 +1,7 @@
 ## Hi, I'm Josue Sandino 
 
-Software engineer with a degree from ([UNA](https://www.una.ac.cr/))
+Software engineer with a degree from [UNA](https://www.una.ac.cr/) in 2021.
+
 <!--
 **jsandinoDev/jsandinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
