@@ -1,36 +1,30 @@
-## Hi, I'm Josue Sandino ✌️
+#  Hello, I'm Josue! 🇨🇷
 
- 🎓 Software engineer with a degree from [UNA](https://www.una.ac.cr/) in 2021.
+I'm a passionate **Software Engineer** from **Costa Rica** with a keen interest in exploring and mastering new technologies. Whether it's building robust back-end systems or crafting interactive front-end experiences, I thrive on solving complex problems and creating impactful software solutions.
+
+
+## 🚀 Skills & Expertise
+- **Full-Stack Development**: Proficient in both **front-end** and **back-end** development with hands-on experience in various web2 technologies.
+- **Languages & Tools**: 
+  - **Front-End**: HTML, CSS, JavaScript, React
+  - **Back-End**: Node.js, Express, RESTful APIs
+  - **Databases**: SQL, MongoDB, Redis
+- **Web3**: Currently diving into the world of decentralized applications, smart contracts, and blockchain technology.
+
+## 🌱 Currently Exploring
+- **Web3 & Blockchain**: Learning the ropes of **web3 development**, understanding **smart contracts** with **Cairo** for **StarkNet**, and exploring the potential of decentralized applications.
+- **Open Source**: Actively seeking opportunities to contribute to open source projects that align with my expertise and interests.
+
+---
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsandinoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+## 📫 Let's Connect
  
- 🌀 Specialized in the migration of applications from obsolete technologies to modern platforms.
- 
- 🔑 Skilled in both front-end and back-end development.
- 
- 🔭 Interested in learning new technology solutions and looking to collaborate on projects where my help can be useful. 
- 
-___
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/josue-sandino-jaen-846381207/)
+- **Twitter**: [@jsandinoDev]( https://x.com/jsandinoDev)
+- **Telegram**: @jsandinoDev
 
-
- 💻 I’m currently learning web3 with Cairo && starknet
-
-___
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsandinodev&show_icons=true&locale=en&layout=compact" alt="jsandinodev" /></p>
-
-<!--
-**jsandinoDev/jsandinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
