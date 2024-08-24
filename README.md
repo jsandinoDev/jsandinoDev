@@ -1,4 +1,4 @@
-#  Hello, I'm Josue! 🇨🇷
+#  Hello, I'm Josue! ✌️
 
 I'm a passionate **Software Engineer** from **Costa Rica** with a keen interest in exploring and mastering new technologies. Whether it's building robust back-end systems or crafting interactive front-end experiences, I thrive on solving complex problems and creating impactful software solutions.
 
