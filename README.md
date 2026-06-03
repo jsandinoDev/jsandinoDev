@@ -1,30 +1,38 @@
-#  Hello, I'm Josue! ✌️
+# 👋 Hi, I'm Josué Sandino
 
-I'm a passionate **Software Engineer** from **Costa Rica** with a keen interest in exploring and mastering new technologies. Whether it's building robust back-end systems or crafting interactive front-end experiences, I thrive on solving complex problems and creating impactful software solutions.
+Software Engineer & Site Reliability Engineer from Costa Rica 🇨🇷
 
+I build reliable cloud infrastructure, scalable software systems, and AI-powered applications.
 
-## 🚀 Skills & Expertise
-- **Full-Stack Development**: Proficient in both **front-end** and **back-end** development with hands-on experience in various web2 technologies.
-- **Languages & Tools**: 
-  - **Front-End**: HTML, CSS, JavaScript, React
-  - **Back-End**: Node.js, Express, RESTful APIs
-  - **Databases**: SQL, MongoDB, Redis
-- **Web3**: Currently diving into the world of decentralized applications, smart contracts, and blockchain technology.
-
-## 🌱 Currently Exploring
-- **Web3 & Blockchain**: Learning the ropes of **web3 development**, understanding **smart contracts** with **Cairo** for **StarkNet**, and exploring the potential of decentralized applications.
-- **Open Source**: Actively seeking opportunities to contribute to open source projects that align with my expertise and interests.
+Currently working as a Site Reliability Engineer in IBM Cloud Infrastructure, focusing on storage platforms, observability, automation, and reliability engineering.
 
 ---
 
+## 🚀 What I Do
 
+| Area | Technologies |
+|--------|-------------|
+| ☁️ Cloud & SRE | Kubernetes, Linux, IBM Cloud, Storage, NetApp, Cloud Object Storage, Grafana, Prometheus |
+| 💻 Software Engineering | TypeScript, JavaScript, Python, Node.js, React, SQL, MongoDB, Redis |
+| 🤖 AI | OpenAI APIs, AI Assistants, AI Automation, LLM Applications |
+| ⛓️ Web3 | Starknet, Cairo, Smart Contracts, dApps |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsandinoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
+## 🌱 Current Focus
 
-## 📫 Let's Connect
- 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/josue-sandino-jaen-846381207/)
-- **Twitter**: [@jsandinoDev]( https://x.com/jsandinoDev)
-- **Telegram**: @jsandinoDev
+- Platform Engineering & Cloud Infrastructure
+- Storage Reliability Engineering
+- AI-Powered Applications
+- Distributed Systems
 
+---
+
+## 🌐 Links
+
+- Portfolio: https://portfolio-next-ten-lemon.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/josue-sandino-jaen-846381207/
+- X: https://x.com/jsandinoDev
+- Telegram: @jsandinoDev
+---
+⭐ Interested in Cloud Infrastructure, SRE, AI, and Web3.
